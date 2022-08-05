@@ -3,10 +3,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
-<img src="https://img.icons8.com/plasticine/452/visual-studio-code-2019.png" alt="vsCode" width="70px" heigth="70px" />
-<img src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/452/external-Git-social-media-those-icons-lineal-color-those-icons.png" alt="vsCode" width="70px" heigth="70px" />
-<img src="https://img.icons8.com/plasticine/452/github.png" alt="vsCode" title="vsCode" width="80px" heigth="80px" />
-<img src="https://img.icons8.com/dusk/344/copyright.png" alt="C++" title="C++" width="70px" heigth="70px" />
+<img src="https://img.icons8.com/plasticine/452/visual-studio-code-2019.png" alt="vsCode" title="vsCode" width="70px" heigth="70px" />
+<img src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/452/external-Git-social-media-those-icons-lineal-color-those-icons.png" alt="git" title="git" width="70px" heigth="70px" />
+<img src="https://img.icons8.com/plasticine/452/github.png" alt="github" title="github" width="80px" heigth="80px" />
+<img src="https://img.icons8.com/dusk/344/copyright.png" alt="copyright" title="copyright" width="70px" heigth="70px" />
 <img src="https://img.icons8.com/dusk/452/wordpress--v1.png" alt="Wordpress" title="WordPress" width="70px" heigth="70px" />
 <img src="https://img.icons8.com/dusk/452/html-5.png" alt="HTML" title="HTML" width="70px" heigth="70px" />
 <img src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" title="CSS" width="70px" heigth="70px" />
