@@ -5,13 +5,13 @@
 <div>
 <img src="https://img.icons8.com/plasticine/452/visual-studio-code-2019.png" alt="vsCode" width="70px" heigth="70px" />
 <img src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/452/external-Git-social-media-those-icons-lineal-color-those-icons.png" alt="vsCode" width="70px" heigth="70px" />
-<img src="https://img.icons8.com/plasticine/452/github.png" alt="vsCode" width="80px" heigth="80px" />
-<img src="https://img.icons8.com/dusk/344/copyright.png" alt="C++" width="70px" heigth="70px" />
-<img src="https://img.icons8.com/dusk/452/wordpress--v1.png" alt="Wordpress" width="70px" heigth="70px" />
-<img src="https://img.icons8.com/dusk/452/html-5.png" alt="HTML" width="70px" heigth="70px" />
-<img src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" width="70px" heigth="70px" />
-<img src="https://img.icons8.com/dusk/452/javascript-logo.png" alt="Javascript" width="70px" heigth="70px" />
-<img src="https://img.icons8.com/office/452/react.png" alt="React.js" width="70px" heigth="70px" />
+<img src="https://img.icons8.com/plasticine/452/github.png" alt="vsCode" title="vsCode" width="80px" heigth="80px" />
+<img src="https://img.icons8.com/dusk/344/copyright.png" alt="C++" title="C++" width="70px" heigth="70px" />
+<img src="https://img.icons8.com/dusk/452/wordpress--v1.png" alt="Wordpress" title="WordPress" width="70px" heigth="70px" />
+<img src="https://img.icons8.com/dusk/452/html-5.png" alt="HTML" title="HTML" width="70px" heigth="70px" />
+<img src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" title="CSS" width="70px" heigth="70px" />
+<img src="https://img.icons8.com/dusk/452/javascript-logo.png" alt="Javascript" title="javascript" width="70px" heigth="70px" />
+<img src="https://img.icons8.com/office/452/react.png" alt="React.js" title="react.js" width="70px" heigth="70px" />
 <div>
   
  <h3 align="left">contact me:</h3>
