@@ -2,9 +2,11 @@
 <h3 align="center">hey I'm Alireza and i'm a web developer & designer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<div>
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,react,redux,firebase,mongodb,git,vscode,wordpress)](https://skillicons.dev)
-<div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,react,redux,firebase,mongodb,git,vscode,wordpress" />
+  </a>
+</p>
   
  <h3 align="left">contact me:</h3>
 <div>
